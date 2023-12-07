@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Fabian Labat
+theme:
+  name: material
+plugins:
+  - tags:
+      tags_file: tags.md
+  - blog
+
