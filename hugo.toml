@@ -2,3 +2,6 @@ baseURL = 'https://www.flabat.com'
 languageCode = 'en-us'
 title = 'Fabian Labat'
 theme = 'ananke'
+caches:
+  images:
+    dir: :cacheDir/images
