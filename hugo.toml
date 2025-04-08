@@ -1,4 +1,4 @@
-baseURL = 'https://www.flabat.com'
+baseURL = 'https://flabat.com'
 languageCode = 'en-us'
 title = 'Fabian Labat'
 theme = 'ananke'
