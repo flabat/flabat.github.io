@@ -1,7 +1,7 @@
 baseURL = 'https://flabat.com'
 languageCode = 'en-us'
 title = 'Fabian Labat'
-theme = 'ananke'
+theme = 'hextra'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
